@@ -1,10 +1,9 @@
-//This code is to find out ASKII value of given character 
-
 #include<stdio.h>
 #include<conio.h>
 int main()
 {
     int num_1 = 0;
+    
     printf("Enter the character to find its ASKII value: \n");
     scanf("%c",&num_1);
 
