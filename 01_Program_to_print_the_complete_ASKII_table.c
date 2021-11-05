@@ -1,9 +1,9 @@
-// In 
 #include<stdio.h>
 #include<conio.h>
 int main()
 {
     int askii = 0;
+    
     printf("\n\t Your ASKII table is below => \n");
 
     while(askii<128)
